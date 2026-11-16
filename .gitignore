@@ -17,3 +17,9 @@ build/
 # Sistema
 .DS_Store
 Thumbs.db
+
+# Base de datos local
+*.sqlite3
+
+# Windows
+desktop.ini
